@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darjijays
+- 👋 Hi, I’m jay darji
 - 👀 I’m interested in phyisics and computer science
 - 🌱 I’m currently learning comptuational materials science for new materials development
 - 💞️ I’m looking to collaborate on to develop breakthrough technologies for batteries and computer chips manufacturing
